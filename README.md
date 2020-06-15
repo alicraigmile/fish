@@ -17,7 +17,7 @@ A (prototype) smart badge with some lovely fish swimming across it
 
 ### Circuit diagram
 
-_Coming soon_
+![](https://github.com/alicraigmile/fish/raw/master/circuit.svg "Circuit diagram showing individual pin connections")
 
 ### Connections
 
