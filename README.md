@@ -51,7 +51,7 @@ You can also push the button, if you'd like.
 
 This code is heavily influenced by the sample code that came with the Adafruit_SSD1306 library. Some or all of the compenents for this project can be purchased from [Adafruit](https://www.adafruit.com/) if you want to try making your own - although other retailers are available.
 
-Project fish is dedicated to my colleagues past and present at [BBC Bitesize]( https://www.bbc.co.uk/bitesize).
+Project fish is dedicated to my colleagues past and present at [BBC Bitesize](https://www.bbc.co.uk/bitesize).
 
 
 
