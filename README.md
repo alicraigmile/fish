@@ -26,7 +26,7 @@ Fish swimming across a 0.96" monochrome OLED display
 
 Download the following code and upload it to the Arduino:
 
-https://raw.githubusercontent.com/alicraigmile/fish/master/fish.ino
+https://github.com/alicraigmile/fish/tree/master/src/fish
 
 ### How exactly?
 
