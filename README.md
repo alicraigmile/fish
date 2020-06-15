@@ -43,7 +43,9 @@ Adafruit_GFX and Adafruit_SSD1306 libraries are required to get this working.
 
 ## Usage
 
-Connect the battery and you should see an animation appear on the screen. After 10s or so, you should see the fish.
+Pin the OLED display to your t-shirt, top, tie or lapel (delete as appropriate).
+
+Upon connecting the battery, you should see an animation appear on the screen, and after 10s or so, you should see the fish swim in from the right of the display.
 
 You can also push the button, if you'd like.
 
