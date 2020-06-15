@@ -2,6 +2,11 @@
 
 A (prototype) smart badge with some lovely fish swimming across it
 
+
+## See it in action!
+
+[![](http://img.youtube.com/vi/U844C7D4lIU/0.jpg)](http://www.youtube.com/watch?v=U844C7D4lIU "Project fish demo")
+
 ## Hardware
 
 * 0.96" monochrome OLED Display module SPI white
